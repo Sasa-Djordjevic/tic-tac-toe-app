@@ -5,7 +5,7 @@ The Tic Tac Toe App is a classic and engaging game for all ages. Enjoy the timel
 The Tic Tac Toe app is built with React Native CLI and Typescript.
 
 ### Additional packages used in the app:
-React Native Vector Icons (react-native-vector-icons)
-React Native Snackbar (react-native-snackbar)
+1) React Native Vector Icons (react-native-vector-icons);
+2) React Native Snackbar (react-native-snackbar);
 
 ![Screenshots](./src/assets/screenshots/screenshots-app.jpg)
